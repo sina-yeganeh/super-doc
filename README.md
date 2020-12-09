@@ -35,4 +35,4 @@ doc --BN -make  COMING SOON...
 - README.md update
 <hr>
 
-- **Please pull requests and write commnt/ Don't forget to star ; )**
+- **Please pull requests and write commnt/ Don't forget to star :wink:**
