@@ -13,6 +13,13 @@
 
 <img title="superdoc++" src="https://s17.picofile.com/file/8417216718/imagetow.PNG"></img>
 
+## Installation:
+1. Open your command line
+2. Write: `git clone https://github.com/UpstartCoder/SuperDoc.git`
+3. `cd superdoc`
+4. `python main.py` in windows / `python3 main.py` in linux
+5. Enjoy that!!! :blush:
+
 ## Command list:
 - Not: You can get that in tool like this: `doc -h`
 ```
