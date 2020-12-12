@@ -13,5 +13,5 @@ def banner():
  |   \ / _ \ / __|| |_ _| |_
  | |) | (_) | (_|_   _|_   _|
  |___/ \___/ \___||_|   |_|''')
-    print(c.GREEN + '         BY DARK BOT')
+    print(c.GREEN + '       BY UpstartCoder')
     print(c.WHITE + '[Write doc -h To get Information]')
