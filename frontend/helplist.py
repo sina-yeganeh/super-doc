@@ -20,7 +20,7 @@ About
 -------------
 This tool, can do doc attck and make BOTNET
 for DDos attcking ...
-my github username: Dark_Bot912
+my github username: UpstartCoder
 Not: for a BIG packet you need to good PC
 or laptop, if you chose a BIG packet maby
 your pc/laptop destroy!''')
