@@ -1,8 +1,10 @@
 import os, sys
 from colorama import Fore as c
+from colorama import init
 from frontend import helplist
 
 def MainDoc():
+    init()
     while True:
         command = input(c.CYAN + ' \nHome@root/Command/' + c.WHITE + ' $ ')
 
