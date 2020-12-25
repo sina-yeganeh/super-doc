@@ -1,6 +1,9 @@
 # SuperDoc
 **simple but powerful tool for doc attacks and botnet building (coming soon)** :confused:
 
+## Examplation:
+![Exampel_superdoc](https://s17.picofile.com/file/8418893192/ezgif_com_gif_maker.gif)
+
 ## Usage:
 - **Use** `python` **programing**.
 
