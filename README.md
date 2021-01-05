@@ -45,6 +45,11 @@ doc --BN -make  COMING SOON...
 - Doc attcks
 - Beautiful theme
 - README.md update
+
+
+**Date** *21/01/05* **:**
+- Add gif for help
+- Add some emojy for bether README.md
 <hr>
 
 - **Please pull requests and write commnt/ Don't forget to star :wink:**
